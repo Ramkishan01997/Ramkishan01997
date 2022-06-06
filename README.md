@@ -1,11 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ramkishan</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px" height="50px">, I'm Ramkishan</h1>
 <h3 align="center">I'm a passionate Quality Assurance Engineer. Love to learn new things..</h3>
 
 <p align="center">
-  <a href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F72477&background=FFEC9F00&lines=Manual+Testing;%20Automation +Testing;%20API +Testing;Always%20ready%20to%20learn%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=23&color=F78A21&center=true&lines=Manual+Testing;Automation++Testing;API+Testing;Always+ready+to+learn+new+things"></a>
 </p>
+
 <hr/>
 
 ##  💼 Experience
