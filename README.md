@@ -10,7 +10,7 @@
 <hr/>
 
 ##  💼 Experience
-2.5 + Years of experience as Quality Assurance Engineer (TCS).
+2.7 + Years of experience as Quality Assurance Engineer (TCS).
 
 ## 🙋‍♂️ About Me
 
