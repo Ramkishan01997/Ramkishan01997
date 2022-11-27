@@ -14,7 +14,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as Quality Assurance Engineer in TCS 
+- 🔭 I’m currently working as Quality Assurance Engineer in Dassault Sytstem Pune 
   
 - 🌱 I’m currently learning **Automation Testing.**
 
