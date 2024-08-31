@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="15px" height="50px">, I'm Ramkishan</h1>
-<h3 align="center">I'm a passionate Quality Assurance Engineer. Love to learn new things..</h3>
+<h3 align="center">I am Automation Test Engineer @Dassault System Ltd. Love to learn new things..</h3>
 
 <p align="center">
   <a href="https://github.com/shikha-max/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=23&color=F78A21&center=true&lines=Manual+Testing;Automation++Testing;API+Testing;Always+ready+to+learn+new+things"></a>
@@ -9,14 +9,17 @@
 
 <hr/>
 
-##  💼 Experience
-2.7 + Years of experience as Quality Assurance Engineer (TCS).
+##  💼 Experiences
+- Automation Test Specialist @Dassault System .
+
+ Past experience
+ Automation Test Engineer (Tata Consultancy Service)
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as Quality Assurance Engineer in TCS 
+- 🔭 I’m currently working as Automation Test Specialist @Dassault System .
   
-- 🌱 I’m currently learning **Automation Testing.**
+- 🌱 I’m currently learning **Automation Tool like playwright .**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
